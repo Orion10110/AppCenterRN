@@ -12,3 +12,11 @@ import renderer from 'react-test-renderer';
 it('renders correctly', () => {
   renderer.create(<App />);
 });
+
+function sum(a, b) {
+  return a + b;
+}
+
+it('works', () => {
+  expect(sum(1, 2)).toBe(3);
+});

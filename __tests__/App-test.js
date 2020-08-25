@@ -18,5 +18,5 @@ function sum(a, b) {
 }
 
 it('works', () => {
-  expect(sum(1, 2)).toBe(3);
+  expect(sum(1, 2)).toBe(9);
 });

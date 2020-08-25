@@ -32,7 +32,7 @@ const App: () => React$Node = () => {
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
-          <Header />
+          <Text style={[styles.sectionTitle, { padding: 20, flex:1, textAlign: 'center', fontWeight: 'bold', fontSize: 35 }]}>Hello App Center</Text>
           {global.HermesInternal == null ? null : (
             <View style={styles.engine}>
               <Text style={styles.footer}>Engine: Hermes</Text>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloAppCenter</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">e0XKdyWEWtne_xiBuG2Ze-_UTpsS2anhqrl9n</string>
 </resources>

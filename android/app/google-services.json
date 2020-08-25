@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31648117940",
+    "firebase_url": "https://helloappcenter-aa3c7.firebaseio.com",
+    "project_id": "helloappcenter-aa3c7",
+    "storage_bucket": "helloappcenter-aa3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31648117940:android:6a4a7f401b9536d21393e1",
+        "android_client_info": {
+          "package_name": "com.helloappcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31648117940-0k914u6glhb9q5ijolmunkapagqttfbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helloappcenter",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "31648117940-0dfimcn5phhbt998doabfkosj4u2m67j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjPc66G1QcUccu1c7mV5FJoplvR5Cx70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31648117940-0dfimcn5phhbt998doabfkosj4u2m67j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
